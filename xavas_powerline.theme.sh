@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-source "$OSH/themes/powerline/powerline.base.sh"
+source "$OSH/themes/xavas_powerline/xavas_powerline.base.sh"
 
 PROMPT_CHAR=${POWERLINE_PROMPT_CHAR:=""}
 POWERLINE_LEFT_SEPARATOR=${POWERLINE_LEFT_SEPARATOR:=""}
